@@ -52,13 +52,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MudasirNajimudin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mu534&show_icons=true&locale=en" alt="mu534 GitHub stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MudasirNajimudin&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudasirNajimudin&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mu534" alt="mu534 GitHub streak" />
 </p>
 
 ---
@@ -66,6 +66,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mu534&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mu534&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  
 </p>
 
