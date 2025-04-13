@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="#projects">Explore My Work</a> • <a href="#connect">Let’s Connect</a>
+  <a href="#skills">Explore My Skills</a> • <a href="#connect">Let’s Connect</a>
 </p>
 
 ---
@@ -40,16 +40,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-- **[Project Name 1](#)**: A sleek React.js app with real-time features using Firebase. *[Add live demo or repo link]*
-- **[Project Name 2](#)**: A Flutter-based mobile app with smooth animations and offline support. *[Add live demo or repo link]*
-- **[Project Name 3](#)**: A full-stack MERN app with secure authentication. *[Add live demo or repo link]*
-
-> 💡 *Want to see more? Check out my [GitHub repositories](#)!*
-
----
-
 ### 📊 My GitHub Stats
 
 <p align="center">
@@ -77,8 +67,8 @@
   <a href="https://www.linkedin.com/in/mudasir-najimudin-127064328" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/yourXhandle" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://www.facebook.com/mudassir.najmuddiin" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/n_mudasir_n" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
