@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  💬 Got a cool project or idea? <a href="mailto:your.email@example.com">Drop me a line!</a>
+  💬 Got a cool project or idea? <a href="mailto:mudassirnajimuddin@gmail.com">Drop me a line!</a>
 </p>
 
 ---
