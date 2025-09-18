@@ -1,17 +1,13 @@
-<h1 align="center">Hey there, I'm Mudasir Najimudin! 👋</h1>
-<h3 align="center">Frontend & Mobile App Developer | React.js & Flutter Enthusiast | Crafting Seamless Web & Mobile Experiences</h3>
+<h1 align="center">Hey, I'm Mudasir Najimudin! 👋</h1>
+<h3 align="center">Frontend & Mobile App Developer | React.js & Flutter | Turning Ideas Into Seamless Web & Mobile Experiences</h3>
 
 <p align="center">
-  I specialize in building <b>high-performance</b>, <b>user-friendly</b> interfaces and <b>mobile experiences</b> that make people go "Wow!" From slick web apps to polished mobile apps, I bring ideas to life with clean code and modern tools.
-</p>
-
-<p align="center">
-  <a href="#skills">🛠 Explore My Skills</a> • <a href="#projects">💻 My Projects</a> • <a href="#connect">📬 Let's Connect</a>
+  <i>“Code, Create, Inspire” 🚀</i>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -29,14 +25,18 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mu534&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
 ---
 
-### 🚀 What I'm Building
+### 🚀 What I’m Working On
 
-- 🖥 **Web Apps:** Scalable, responsive applications with **React.js** & **TypeScript**  
-- 📱 **Mobile Apps:** Cross-platform apps using **Flutter** & **Dart**  
-- 🌐 **Full-Stack Projects:** Backend APIs with **Node.js**, **Express**, & **MongoDB**  
-- 🎨 **UI/UX Design:** Pixel-perfect interfaces with **Tailwind CSS** & modern design patterns  
+- **Web Apps:** Responsive & scalable apps with **React.js** & **TypeScript**  
+- **Mobile Apps:** Cross-platform apps with **Flutter** & **Dart**  
+- **Full-Stack Projects:** Node.js, Express & MongoDB APIs  
+- **UI/UX:** Pixel-perfect designs with **Tailwind CSS**  
 
 ---
 
@@ -44,27 +44,37 @@
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| **AI News Checker** | React, Node.js, MongoDB, OpenAI API | Detects fake news and provides real-time analysis. |
-| **Digital Equb (ROSCA) App** | Flutter, Firebase | Modernized Ethiopian savings system with secure, transparent features. |
-| **Portfolio Website** | React, Tailwind CSS | Showcases my projects, skills, and blog content. |
-
-> More projects coming soon! Stay tuned. 🚀
+| **AI News Checker** | React, Node.js, MongoDB, OpenAI API | Real-time fake news detection using AI. |
+| **Digital Equb (ROSCA)** | Flutter, Firebase | Ethiopian savings platform, modern & secure. |
+| **Portfolio Website** | React, Tailwind CSS | Personal dev portfolio & blog showcase. |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mu534&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mu534&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mu534&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mu534&layout=compact&theme=radical" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mu534&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mu534&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📬 Let's Connect
+### 📈 Skill Progress Bars
+
+<p align="center">
+  <b>React.js:</b> <img src="https://img.shields.io/badge/90%25-React-blue?style=for-the-badge&logo=react&logoColor=white" /> <br>
+  <b>Flutter:</b> <img src="https://img.shields.io/badge/85%25-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <br>
+  <b>JavaScript:</b> <img src="https://img.shields.io/badge/95%25-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <br>
+  <b>TypeScript:</b> <img src="https://img.shields.io/badge/90%25-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <br>
+  <b>Node.js:</b> <img src="https://img.shields.io/badge/80%25-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+---
+
+### 📬 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mudasir-najimudin-127064328" target="_blank">
@@ -84,5 +94,5 @@
 ---
 
 <p align="center">
-  <i>Code. Create. Inspire. 🚀</i>
+  <i>Let's code, innovate, and inspire together! ✨</i>
 </p>
