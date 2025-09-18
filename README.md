@@ -45,7 +45,7 @@
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
 | **AI News Checker** | React, Node.js, MongoDB, OpenAI API | Detects fake news and provides real-time analysis. |
-| **Digital Equb (ROSCA) App** | Flutter, Firebase | Modernized Ethiopian savings system with secure, transparent features. |
+
 | **Portfolio Website** | React, Tailwind CSS | Showcases my projects, skills, and blog content. |
 
 > More projects coming soon! Stay tuned. 🚀
